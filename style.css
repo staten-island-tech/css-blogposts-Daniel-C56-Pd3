@@ -2,17 +2,32 @@ body{
     background-color: white;
     color: black;
     font-size: 25px;
-}
-html,
-* { 
-
+}    
+#id {
+    color: black;
 }
 h1{
-    color: aliceblue;
-    font-size: medium;
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+    width: 800px;
+    margin: 60px auto;
+    font-family: sans-serif;
+    background-color: white
+
+    ;
+}
+h2{
+    color: black;
+    font-size: xx-large;
     text-align: center;
     width: 800px;
     margin: 50px auto;
     font-family: sans-serif;
-    background-color: blue;
+    background-color: white
+    ;
+}
+
+span {
+    color: red;
 }
