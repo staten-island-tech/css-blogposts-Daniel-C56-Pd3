@@ -1,9 +1,54 @@
 body{
     background-color: lightblue;
+    font-family: Work Sans;
+    font-size: 70px;
+    text-align: center;
+    margin: 40px;
+    padding: 20px;
+    border: 5px solid black;
 }
-.rice{
-    color: red;
+.Title{
+    color: blue;
     font-style: Work Sans;
     font-size: 40px;
     text-align: center;
+    background-color: white;
+}
+.Rice{
+    color: red;
+    font-style: Work Sans;
+    text-align: center;
+    font-size: 25px;
+    width: 600px auto;
+    background-color: white;
+    margin: 40px;
+    padding: 20px;
+    border: 5px solid black;
+}
+.Badminton{
+    color: black;
+    font-style: Work Sans;
+    text-align: center;
+    font-size: 25px;
+    width: 600px auto;
+    background-color: white;
+    margin: 40px;
+    padding: 20px;
+    border: 5px solid black;
+}
+.Flordia{
+    color: black;
+    font-style: Work Sans;
+    text-align: center;
+    font-size: 25px;
+    width: 600px auto;
+    background-color: white;
+    margin: 40px;
+    padding: 20px;
+    border: 5px solid black;
+}
+span{
+    color: black;
+    font-style: Work Sans;
+    font-size: 100px;
 }
